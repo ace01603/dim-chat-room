@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dim-chat-room/static/css/main.5e443960.css",
+    "main.js": "/dim-chat-room/static/js/main.1fb03580.js",
+    "static/js/787.5b7223dc.chunk.js": "/dim-chat-room/static/js/787.5b7223dc.chunk.js",
+    "index.html": "/dim-chat-room/index.html",
+    "main.5e443960.css.map": "/dim-chat-room/static/css/main.5e443960.css.map",
+    "main.1fb03580.js.map": "/dim-chat-room/static/js/main.1fb03580.js.map",
+    "787.5b7223dc.chunk.js.map": "/dim-chat-room/static/js/787.5b7223dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e443960.css",
+    "static/js/main.1fb03580.js"
+  ]
+}
